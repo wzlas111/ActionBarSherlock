@@ -23,7 +23,7 @@ Continuous integration is provided by [Travis CI][7].
 
 
 
-Developed By
+Developed By wangzl
 ============
 
 * Jake Wharton - <jakewharton@gmail.com>
